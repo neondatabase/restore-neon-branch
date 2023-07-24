@@ -12,8 +12,8 @@
   "author": "m-abdelwahab",
   "license": "MIT",
   "devDependencies": {
+    "@neondatabase/api-client": "^1.2.0",
     "@types/node": "^20.3.1",
-    "node-fetch": "^3.3.1",
     "tsx": "^3.12.7"
   }
 }
