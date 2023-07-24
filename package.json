@@ -1,0 +1,19 @@
+{
+  "name": "restore-neon-branch",
+  "version": "0.0.1",
+  "description": "Script to restore a Neon branch to a previous state while preserving the same endpoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [
+    "Neon"
+  ],
+  "author": "m-abdelwahab",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "node-fetch": "^3.3.1",
+    "tsx": "^3.12.7"
+  }
+}
