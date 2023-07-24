@@ -6,7 +6,6 @@ import { createApiClient } from '@neondatabase/api-client';
 const NEON_API_KEY = ''; //you can generate one by going to [account settings > developer settings > generate new API key](https://console.neon.tech/app/settings/api-keys).
 const NEON_PROJECT_ID = ''; //  you can find it in your project settings.
 const ENDPOINT_ID = ''; //The ID of the compute endpoint you want to keep - you can find it by navigating to "Branches" and selecting the branch from the list.
-
 const TIMESTAMP = '2023-07-23T14:05:53.000Z'; // You can use https://www.timestamp-converter.com/ to get the ISO 8601 format
 
 const main = async () => {
